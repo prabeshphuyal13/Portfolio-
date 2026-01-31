@@ -1,6 +1,6 @@
 # Prabesh Phuyal - Portfolio
 
-🌐 **[View Live Site](https://prabeshphuyal13.github.io/portfolio/)**
+🌐 **[View Live Site](https://prabeshphuyal13.github.io/Portfolio/)**
 
 A personal portfolio website showcasing my skills, projects, and contact information.
 
